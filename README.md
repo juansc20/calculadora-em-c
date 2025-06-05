@@ -1,20 +1,55 @@
 # 🧮 Calculadora em C
 
-Este projeto é uma calculadora simples feita em linguagem C, com as quatro operações básicas. Foi desenvolvido como exercício da disciplina de **Algoritmos e Programação Estruturada**.
+Este projeto é uma calculadora simples feita em linguagem C, com suporte às quatro operações básicas. Foi desenvolvido como exercício da disciplina de **Algoritmos e Programação Estruturada**.
 
 ## 🚀 Funcionalidades
-- Soma
-- Subtração
-- Multiplicação
-- Divisão (com verificação de divisão por zero)
 
-## 💻 Tecnologias
-- Linguagem C
-- Compilador GCC
-- Terminal / Console
+- ✅ Soma  
+- ✅ Subtração  
+- ✅ Multiplicação  
+- ✅ Divisão (com verificação de divisão por zero)  
+- 🔁 Loop de execução até o usuário escolher sair
 
-## 📦 Como usar
+## 💻 Tecnologias utilizadas
 
-1. Compile o código:
+- Linguagem **C**  
+- Compilador **GCC**  
+- Ambiente: **Terminal/Console**  
+- Editor: **Visual Studio Code** (VS Code)
+
+## 📦 Como executar
+
+1. **Clone o repositório:**
 ```bash
+git clone https://github.com/juansc20/calculadora-em-c.git
+cd calculadora-em-c
+
+Compile o programa:
 gcc calculadora.c -o calculadora
+
+Execute o programa:
+
+No Linux/macOS:
+./calculadora
+
+No Windows (PowerShell):
+.\calculadora.exe
+
+-Aprendizados
+Esse projeto foi uma forma de praticar:
+
+Uso de switch e estruturas de decisão
+
+Entrada e saída de dados com scanf e printf
+
+Laços de repetição (while)
+
+Estrutura geral de um programa em C
+
+📄 Licença
+Este projeto não possui uma licença específica.
+Fique à vontade para estudar, usar e modificar para fins educacionais.
+
+---
+
+
