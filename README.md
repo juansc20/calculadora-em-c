@@ -14,8 +14,8 @@ Este projeto é uma calculadora simples feita em linguagem C, com suporte às qu
 
 - Linguagem **C**  
 - Compilador **GCC**  
-- Ambiente: **Terminal/Console**  
-- Editor: **Visual Studio Code** (VS Code)
+- Ambiente: **Terminal / Console**  
+- Editor: **Visual Studio Code (VS Code)**
 
 ## 📦 Como executar
 
@@ -23,19 +23,27 @@ Este projeto é uma calculadora simples feita em linguagem C, com suporte às qu
 ```bash
 git clone https://github.com/juansc20/calculadora-em-c.git
 cd calculadora-em-c
-
 Compile o programa:
-gcc calculadora.c -o calculadora
 
+bash
+Copiar
+Editar
+gcc calculadora.c -o calculadora
 Execute o programa:
 
 No Linux/macOS:
+
+bash
+Copiar
+Editar
 ./calculadora
-
 No Windows (PowerShell):
-.\calculadora.exe
 
--Aprendizados
+powershell
+Copiar
+Editar
+.\calculadora.exe
+🧠 Aprendizados
 Esse projeto foi uma forma de praticar:
 
 Uso de switch e estruturas de decisão
@@ -48,8 +56,14 @@ Estrutura geral de um programa em C
 
 📄 Licença
 Este projeto não possui uma licença específica.
-Fique à vontade para estudar, usar e modificar para fins educacionais.
+Fique à vontade para estudar, usar e modificar para fins educacionais. 🤓
+
+yaml
+Copiar
+Editar
 
 ---
+
+🔹 **Agora é só copiar tudo acima e colar no seu `README.md`** no GitHub!
 
 
